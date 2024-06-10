@@ -21,6 +21,7 @@
 - [thatwonguy](https://github.com/thatwonguy)
 -[Debapriya kumar](https://github.com/debapriyakumar)
 - [Y W](https://github.com/ywallis)
+- [Krishank Kaushik](https://github.com/krishankkaushik/)
 - [Praveen Sahu](https://github.com/praveen7512)
 - [Luke Olende](https://github.com/LukeOlende)
 - [Ruan S.](https://github.com/ruun)
